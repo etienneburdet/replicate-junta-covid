@@ -1,4 +1,4 @@
-# ODS Widgets boilerplate
+# Made with ODS Widgets boilerplate
 To install and run :
 
 ```
@@ -16,5 +16,5 @@ npm run dev
 ```
 
 
-Pages will be server on http://localhost:9000. It auto-reloads when changing HTML or JS.
+Pages will be served on http://localhost:9000. It auto-reloads when changing HTML or JS.
 Import every `xxx.js` file in `app.js.`
